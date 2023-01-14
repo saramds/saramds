@@ -7,7 +7,7 @@
 
 - 🔭 Entusiasta da **Tecnologia**
 
-- 🤝 O que me dá satisfação no meu dia a dia é quando eu consigo **transformar dados desorganizados em informações úteis**
+- 🤝 Sou boa em **transformar dados desorganizados em informações úteis**
 
 - 📫 Entre em contato comigo pelo e-mail **saramendesds@gmail.com**
 
