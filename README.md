@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou a Sara Mendes</h1>
 <h3 align="center">Estudante de Engenharia Civil</h3>
 
-- 💬 Estagiária do Conselho Federal de Engenharia e Agronomia (Confea), onde desenvolvo **projetos de análise de dados**
+- 💬 Estagiária do Conselho Federal de Engenharia e Agronomia (Confea), onde estou me desenvolvendo na área de **Análise de Dados** e **Inteligência de Negócios**
 
 - 🌱 Atualmente estou aprendendo **Excel, Power BI, VBA, Python e SQL**
 
