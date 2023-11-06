@@ -3,7 +3,7 @@
 
 - ⚡ Estagiária de Gestão de Projetos 
 
-- 💬 Tenho interesse pelos temas de **Análise de Dados** e **Inteligência de Negócios**
+- 💬 Tenho interesse pelos temas de **Análise de Dados** e **Automação de Processos**
 
 - 🌱 Atualmente estou aprendendo **Excel, Power BI, VBA, Python e SQL**
 
