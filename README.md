@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou a Sara Mendes</h1>
 <h3 align="center">Estudante de Engenharia Civil</h3>
 
-- ⚡ Pesquisadora da Associação Gigacandanga
+- ⚡ Setor de Engenharia, Manutenção e Infraestrutura da Academia Nacional de Polícia Federal
 
 - 💬 Tenho interesse pelos temas de **Análise de Dados** e **Automação de Processos**
 
